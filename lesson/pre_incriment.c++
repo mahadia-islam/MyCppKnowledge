@@ -18,3 +18,5 @@ int main(){
     cout << ++j << endl; // previosly it was ten but at the time of printing it will 11 because we keep the incriment operator before and that's why it will incriment frist then it will be printend on screen
     return 0;
 }
+
+// in the case of decrement the process will be same
